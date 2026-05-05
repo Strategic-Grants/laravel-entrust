@@ -1,5 +1,5 @@
 {
-    "name": "shanmuga/laravel-entrust",
+    "name": "Strategic-Grants/laravel-entrust",
     "description": "This package provides a flexible solution to add ACL to Laravel",
     "keywords": [
         "acl",
@@ -20,7 +20,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": "^8.1",
+        "php": "^8.4",
         "illuminate/support": "^10.0|^11.0|^12.0|^13.0"
     },
     "require-dev": {
