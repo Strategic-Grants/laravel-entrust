@@ -1,6 +1,8 @@
 # Laravel Entrust (Supports Laravel 5 to 10)
 Handle Role-based Permissions for your Laravel application.
 
+Contains support for Laravel 11 to 13.
+
 ## Version Compatibility
 
 | Laravel       | Laravel Entrust                                           |
