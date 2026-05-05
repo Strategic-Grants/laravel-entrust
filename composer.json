@@ -1,5 +1,5 @@
 {
-    "name": "Strategic-Grants/laravel-entrust",
+    "name": "strategic-grants/laravel-entrust",
     "description": "This package provides a flexible solution to add ACL to Laravel",
     "keywords": [
         "acl",
